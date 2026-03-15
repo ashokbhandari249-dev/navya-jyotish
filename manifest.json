@@ -1,0 +1,20 @@
+{
+  "name": "नव्या ज्योतिष",
+  "short_name": "नव्या ज्योतिष",
+  "description": "AI आधारित वैदिक ज्योतिष",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080612",
+  "theme_color": "#E8B84B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "education"],
+  "lang": "hi"
+}
